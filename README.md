@@ -1,3 +1,3 @@
-# TensorflowJS-NeuralNetwork
+# tfjs iris dataset
 
-A simple Neural Network using TensorflowJS done using codelab example
+A simple neural network program using TensorflowJS done in codelab example
